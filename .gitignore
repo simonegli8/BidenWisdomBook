@@ -1,1 +1,6 @@
-Blazor/miktex-portable
+miktex-portable/
+.vs
+.github
+*.user
+obj/
+bin/

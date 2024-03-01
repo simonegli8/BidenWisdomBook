@@ -1,0 +1,961 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\css\\consent-main.css",
+      "PackagePath": "staticwebassets\\css\\consent-main.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\cowphoto2.jpg",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\cowphoto2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\et-core-unified-40-17066946696813.min.css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\et-core-unified-40-17066946696813.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\About Us _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\About Us _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\et-core-unified-34-17063312691505.min.css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\et-core-unified-34-17063312691505.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Find Quotes on Issues You Care About _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\Binder-thumb.jpg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\Binder-thumb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\Cover-thumb.jpg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\Cover-thumb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\Logo-thumb.jpg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\Logo-thumb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\Tagline-thumb.jpg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\Tagline-thumb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\et-core-unified-38-17063319666824.min.css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\et-core-unified-38-17063319666824.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Media _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Media _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\css(1)",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\et-core-unified-32-17063319238215.min.css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\et-core-unified-32-17063319238215.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Print Your Free Book Now! _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\BusinessCard.png",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\BusinessCard.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\btn_donateCC_LG.gif",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\btn_donateCC_LG.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\css(1)",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\et-core-unified-36-1706673273273.min.css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\et-core-unified-36-1706673273273.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Spread the Words _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Spread the Words _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook.html",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\24px.svg",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\24px.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\btn_donateCC_LG.gif",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\btn_donateCC_LG.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\cleardot.gif",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\common.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\common.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\custom.unified.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\custom.unified.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\dashicons.min.css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\dashicons.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\element.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\element.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\et-core-unified-42-17066946711197.min.css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\et-core-unified-42-17066946711197.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\jquery-migrate.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\jquery-migrate.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\jquery.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\jquery.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\logo.png",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\m=el_main",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\m=el_main_css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\pixel.gif",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\pixel.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\portada.png",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\style.css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\style.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\style.min.css",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\style.min.css"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\docs\\Support Us _ BidenWisdomBook_files\\wp-emoji-release.min.js.download",
+      "PackagePath": "staticwebassets\\docs\\Support Us _ BidenWisdomBook_files\\wp-emoji-release.min.js.download"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\find.html",
+      "PackagePath": "staticwebassets\\find.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\Biden 2020 Presidential Campaign Logo Vector.svg",
+      "PackagePath": "staticwebassets\\img\\Biden 2020 Presidential Campaign Logo Vector.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\BidenE.png",
+      "PackagePath": "staticwebassets\\img\\BidenE.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\BidenHarris.png",
+      "PackagePath": "staticwebassets\\img\\BidenHarris.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\BidenHarris.png.2024_02_29_22_38_16.0.svg",
+      "PackagePath": "staticwebassets\\img\\BidenHarris.png.2024_02_29_22_38_16.0.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\Header.svg",
+      "PackagePath": "staticwebassets\\img\\Header.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ObamaWisdomBooks.jpg",
+      "PackagePath": "staticwebassets\\img\\ObamaWisdomBooks.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ReadAndShare_01.png",
+      "PackagePath": "staticwebassets\\img\\ReadAndShare_01.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ReadAndShare_02.png",
+      "PackagePath": "staticwebassets\\img\\ReadAndShare_02.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ReadAndShare_03.png",
+      "PackagePath": "staticwebassets\\img\\ReadAndShare_03.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ReadAndShare_04.png",
+      "PackagePath": "staticwebassets\\img\\ReadAndShare_04.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ReadAndShare_05.png",
+      "PackagePath": "staticwebassets\\img\\ReadAndShare_05.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\Tagline.svg",
+      "PackagePath": "staticwebassets\\img\\Tagline.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\arrows.gif",
+      "PackagePath": "staticwebassets\\img\\arrows.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\backblue.gif",
+      "PackagePath": "staticwebassets\\img\\backblue.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\biden-logo.png",
+      "PackagePath": "staticwebassets\\img\\biden-logo.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\biden-logo.webp",
+      "PackagePath": "staticwebassets\\img\\biden-logo.webp"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\biden-quote2.jpg",
+      "PackagePath": "staticwebassets\\img\\biden-quote2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\bidenpresident.png",
+      "PackagePath": "staticwebassets\\img\\bidenpresident.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\book-photo-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\book-photo-thumb.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-about-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-about-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-about-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-about-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-about-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-about-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-about-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-about-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-about-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-about-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-find-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-find-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-find-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-find-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-find-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-find-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-find-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-find-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-find-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-find-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-media-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-media-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-media-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-media-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-media-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-media-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-media-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-media-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-media-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-media-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-print-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-print-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-print-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-print-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-print-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-print-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-print-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-print-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-print-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-print-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-spread-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-spread-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-spread-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-spread-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-spread-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-spread-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-spread-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-spread-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-spread-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-spread-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-support-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn-support-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-support-off.png",
+      "PackagePath": "staticwebassets\\img\\btn-support-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-support-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn-support-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-support-on.png",
+      "PackagePath": "staticwebassets\\img\\btn-support-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn-support-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn-support-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_create-off.jpg",
+      "PackagePath": "staticwebassets\\img\\btn_create-off.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_create-off.png",
+      "PackagePath": "staticwebassets\\img\\btn_create-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_create-off.svg",
+      "PackagePath": "staticwebassets\\img\\btn_create-off.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_create-on.png",
+      "PackagePath": "staticwebassets\\img\\btn_create-on.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_create-on.svg",
+      "PackagePath": "staticwebassets\\img\\btn_create-on.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_donateCC_LG.gif",
+      "PackagePath": "staticwebassets\\img\\btn_donateCC_LG.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\btn_start-off.png",
+      "PackagePath": "staticwebassets\\img\\btn_start-off.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\cleardot.gif",
+      "PackagePath": "staticwebassets\\img\\cleardot.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\fade.gif",
+      "PackagePath": "staticwebassets\\img\\fade.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\gradient_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\gradient_bg.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\header-bg.biden.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\header-bg.biden.png",
+      "PackagePath": "staticwebassets\\img\\header-bg.biden.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\header-bg.biden.svg",
+      "PackagePath": "staticwebassets\\img\\header-bg.biden.svg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\header-bg.placeholder.jpg",
+      "PackagePath": "staticwebassets\\img\\header-bg.placeholder.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\imagesbiden.jpeg",
+      "PackagePath": "staticwebassets\\img\\imagesbiden.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\joe-biden.cropped.jpg",
+      "PackagePath": "staticwebassets\\img\\joe-biden.cropped.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\joe-biden.jpg",
+      "PackagePath": "staticwebassets\\img\\joe-biden.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\joe_biden.big.cropped.jpg",
+      "PackagePath": "staticwebassets\\img\\joe_biden.big.cropped.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\joe_biden.big.jpg",
+      "PackagePath": "staticwebassets\\img\\joe_biden.big.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\number-bg.gif",
+      "PackagePath": "staticwebassets\\img\\number-bg.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\obama-quote.jpg",
+      "PackagePath": "staticwebassets\\img\\obama-quote.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\obama-quote2.jpg",
+      "PackagePath": "staticwebassets\\img\\obama-quote2.jpg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\pixel.gif",
+      "PackagePath": "staticwebassets\\img\\pixel.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\portada.png",
+      "PackagePath": "staticwebassets\\img\\portada.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\ridinwithbiden.jpeg",
+      "PackagePath": "staticwebassets\\img\\ridinwithbiden.jpeg"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\spacer-clr.gif",
+      "PackagePath": "staticwebassets\\img\\spacer-clr.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\spacer.gif",
+      "PackagePath": "staticwebassets\\img\\spacer.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\tagline-new2.gif",
+      "PackagePath": "staticwebassets\\img\\tagline-new2.gif"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\img\\tagline.png",
+      "PackagePath": "staticwebassets\\img\\tagline.png"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\js\\cafd87f.js",
+      "PackagePath": "staticwebassets\\js\\cafd87f.js"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\js\\consent-main.js",
+      "PackagePath": "staticwebassets\\js\\consent-main.js"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\js\\main.47d29676.js",
+      "PackagePath": "staticwebassets\\js\\main.47d29676.js"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\media.html",
+      "PackagePath": "staticwebassets\\media.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\print.html",
+      "PackagePath": "staticwebassets\\print.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\spread.html",
+      "PackagePath": "staticwebassets\\spread.html"
+    },
+    {
+      "Id": "C:\\GitHub\\BidenWisdomBook\\Blazor\\wwwroot\\support.html",
+      "PackagePath": "staticwebassets\\support.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blazor.props",
+      "PackagePath": "build\\Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blazor.props",
+      "PackagePath": "buildTransitive\\Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

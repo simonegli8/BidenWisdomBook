@@ -1,6 +1,7 @@
-miktex-portable/
-.vs
-.github
 *.user
+
+.vs/
+.github/
+miktex-portable/
 obj/
 bin/

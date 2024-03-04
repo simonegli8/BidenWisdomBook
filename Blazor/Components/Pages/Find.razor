@@ -1,4 +1,5 @@
 @page "/Find"
+@inject QuotesCollection Quotes
 
 <PageTitle>Find Quotes</PageTitle>
 
@@ -19,6 +20,26 @@ Click on each of the available covers to preview them. Use your browser's print 
 <a href="documents/BookCover.pdf" target="_blank">Color Cover</a><br><br>
 <a href="documents/BookCover-bw.pdf" target="_blank">Black &amp; White Cover</a><br/><br/>
 
+<form action="Quotas" name="quote_form" method="Post" target="child">
+
+  @foreach (var category in Quotes.Categories) {
+    <h2 class="trigger">@category.Category</h2>
+    <div id="Quotes">
+      <table>
+        @foreach (var quote in category.Quotes) {
+          <tr>
+            <td><input type="checkbox" name="@quote.ID" value="@quote.ID"></td>
+            <td><div>@quote.Text</div></td>
+			 </tr>
+          <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+		  }
+      </table>
+	</div>
+	}
+  
+</form>
+
+@*
 <form action="Quotes" name="quote_form" method="Post" target="child" onsubmit="window.open('this.action','child','width=800,height=600,resizeable=yes,scrollbars=yes')">
   <h2 class="trigger">America's Dreams</h2>
   <div id="Quotes">
@@ -537,3 +558,5 @@ Click on each of the available covers to preview them. Use your browser's print 
     <input type="reset" style="border: 1px solid #03336E; background-color:#fff;" value="RESET (Clear All Checkboxes)" class="caption">
   </center>
 </form>
+*@
+

@@ -1,10 +1,16 @@
-using Blazor.Components;
+using BidenWisdomBook;
+using BidenWisdomBook.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+var quotes = new QuotesCollection();
+quotes.Load();
+
+builder.Services.AddSingleton(typeof(QuotesCollection), quotes);
 
 var app = builder.Build();
 
